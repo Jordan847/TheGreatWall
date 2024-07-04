@@ -12,8 +12,8 @@
 0.0.0.0 dns-nyc.aaflalo.me
 
 # AdGuard
-0.0.0.0 dns.adguard.com
-0.0.0.0 dns-family.adguard.com
+#0.0.0.0 dns.adguard.com
+#0.0.0.0 dns-family.adguard.com
 
 # Alekberg
 0.0.0.0 dns.alekberg.net
